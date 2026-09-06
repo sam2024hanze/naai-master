@@ -1,1 +1,3 @@
 .vercel
+build.py
+extract_assets.py
